@@ -1,0 +1,25 @@
+@charset 'UTF-8';
+
+body {
+    background-color: darkgray;
+}
+
+header h1 {
+text-align: center;
+background-color: rgba(66, 65, 65, 0.507);
+color: rgb(224, 150, 13);
+}
+
+picture h2 {
+    text-align: center;
+}
+
+.foto1 {
+    padding-left: 40px;
+}
+
+.foto2 {
+    padding: 50px;
+    height: 420px;
+    margin-top: 30px;
+}
